@@ -77,7 +77,7 @@ Worth noting: accuracy alone doesn't tell the whole story for a health-related m
 
 ![Home Page](screenshots/app_home.png)
 
-### Prediction Result
+### Prediction Result 
 
 ![Prediction Result](screenshots/prediction_result.png)
 
