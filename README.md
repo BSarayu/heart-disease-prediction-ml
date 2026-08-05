@@ -6,7 +6,7 @@ Heart disease is still one of the top causes of death globally, and catching it 
 
 ## 🚀 Live Demo
 
-👉 *(Add your deployed Streamlit link here once it's live)*
+👉https://heart-disease-prediction-ml-ljk2cd4npfcpoxzufjinjq.streamlit.app/
 
 ## 📌 What's in here
 
