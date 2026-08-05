@@ -73,11 +73,13 @@ streamlit run app.py
 
 Worth noting: accuracy alone doesn't tell the whole story for a health-related model — precision and recall matter just as much when a false negative could mean missing a real case.
 
-## 📸 Screenshots
+### Home Page
 
-**Home page** — `screenshots/app_home.png`
+![Home Page](screenshots/app_home.png)
 
-**Prediction result** — `screenshots/prediction_result.png`
+### Prediction Result
+
+![Prediction Result](screenshots/prediction_result.png)
 
 ## 💼 Why this project
 
