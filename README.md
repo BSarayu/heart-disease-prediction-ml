@@ -1,4 +1,8 @@
 # ❤️ Heart Disease Prediction using Machine Learning
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-RandomForest-orange)
+![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-red)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 I built this project to see how far a fairly simple model — Random Forest — could go in flagging patients who might be at risk of heart disease, using the classic UCI Heart Disease dataset. It covers the full pipeline: cleaning the data, exploring it, training the model, checking how well it actually performs, and then wrapping it all in a Streamlit app so anyone can try it out without touching code.
 
